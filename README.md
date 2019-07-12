@@ -23,8 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://cainxumo.github.io/629/qqmusic.html](url) and ![Image](src)
-`qqmusic``
+[qqmusic](https://cainxumo.github.io/629/qqmusic.html) and ![Image](src)
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
